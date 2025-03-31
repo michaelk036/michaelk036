@@ -1,5 +1,5 @@
-[![Linkedin](https://www.linkedin.com/)
+![Linkedin](https://www.linkedin.com/)
 &nbsp;
-[![Github](https://github.com/)
+![Github](https://github.com/)
 &nbsp;
-[![Gmail](https://github.com/)
+![Gmail](https://github.com/)
